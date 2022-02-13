@@ -2,8 +2,8 @@
 
 I'm a student studying CS at NYCU, Taiwan <br/>
 
-🌱 I’m currently learning flutter <br/>
-🔭 I’m currently working on UI design <br/><br/>
+🌱 I’m currently learning ? <br/>
+🔭 I’m currently working on ? <br/><br/>
 📫 How to reach me: &nbsp; 
 [<img src="https://user-images.githubusercontent.com/71648009/128363923-caf1a4f3-6642-4e36-9b5f-9a9d67a5bc3e.png" width="25" height="25">][1]
 [<img src="https://user-images.githubusercontent.com/71648009/128370802-7596a31f-eda4-410e-a897-000d84544926.png" width="25" height="25">][2]
